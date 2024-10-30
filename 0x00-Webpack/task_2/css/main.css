@@ -1,8 +1,8 @@
 /* Position the counter to the right of the button and make it bold */
 #count {
     font-weight: bold;
-    margin-left: 10px; /* Add some spacing */
-    display: inline-block;
+    margin-left: 1rem; /* Add some spacing */
+    display: inline;
 }
 
 /* Set the logo element's background image */
