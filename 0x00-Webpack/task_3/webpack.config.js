@@ -16,7 +16,7 @@ module.exports = {
     clean: true,
 	},
   devServer: {
-    contentBase: path.join(__dirname, 'public'), // Folder to serve
+    contentBase: './public',
     compress: true,
     port: 8564,
     open: true,
